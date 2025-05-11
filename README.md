@@ -1,7 +1,7 @@
 # Welcome to my GitHub! 👋
 
 <div align="center">
-	<img src="[https://raw.githubusercontent.com/](https://github.com/gauthamgryffindor/gauthamgryffindor/blob/main/githubbanner.png)">
+	<img src="https://github.com/gauthamgryffindor/gauthamgryffindor/blob/main/githubbanner.png">
 </div>
 
 ## About Me 🎯
