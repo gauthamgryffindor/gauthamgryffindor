@@ -17,7 +17,7 @@ My drive stems from the belief that continuous learning and curiosity are the re
 
 <center>
 	<table>
-		<tbody>
+		<tbody bgcolor="white">
 			<tr>
 				<td align="center">
 					<strong>JavaScript</strong><br/>
