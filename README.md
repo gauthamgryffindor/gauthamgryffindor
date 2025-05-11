@@ -35,14 +35,6 @@ My drive stems from the belief that continuous learning and curiosity are the re
 					<strong>Node.js</strong><br/>
 					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
 				</td>
-				<td align="center" style="background-color:white">
-					<strong>Express</strong><br/>
-					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg" >
-				</td>
-				<td align="center">
-					<strong>MongoDB</strong><br/>
-					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-				</td>
 				<td align="center">
 					<strong>Java</strong><br/>
 					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
